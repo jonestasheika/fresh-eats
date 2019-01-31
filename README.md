@@ -1,2 +1,2 @@
 # Fresh Eats Project
-Fresh Eats healthy website
+Fresh Eats healthy foods and snacks
